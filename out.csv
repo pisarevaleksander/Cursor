@@ -1,0 +1,4 @@
+Key,Уровень 1,Уровень 2,Уровень 3,Уровень 4,parentId,category,logName,location,interestId
+1,Root,,,,,Top,logRoot,"AUDIO,VIDEO",7
+2,Root,Child A,,,1,CategoryA,logA,VIDEO,42
+4,Root,Child A,Grandchild A1,,2,,,VIDEO,
