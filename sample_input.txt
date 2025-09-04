@@ -1,0 +1,24 @@
+key.1=Root
+1.location=AUDIO,VIDEO
+1.category=Top
+1.logName=logRoot
+1.interestId=7
+
+key.2=Child A
+2.parentId=1
+2.location=VIDEO
+2.category=CategoryA
+2.logName=logA
+2.interestId=42
+
+key.3=Child B
+3.parentId=1
+3.location=TEXT
+
+key.4=Grandchild A1
+4.parentId=2
+4.location=VIDEO
+
+key.5=No location
+5.parentId=2
+
